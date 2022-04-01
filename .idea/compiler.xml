@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="test-domain.buildSrc" target="15" />
+      <module name="test_domain.app" target="15" />
+      <module name="test_domain.domain-android.subvention-history" target="15" />
+      <module name="test_domain.domain-android.subvention-result" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
